@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Nikhilesh Verma",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -24,5 +24,6 @@
     "pg": "^7.11.0",
     "swagger-ui-express": "^2.0.13",
     "sync-request": "^4.0.2"
-  }
+  },
+  "devDependencies": {}
 }
